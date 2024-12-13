@@ -6,4 +6,6 @@ def main(n):
     Returns:
         int: return answer.
     """
+    x1=n//pow(10,4)
+    x2=n%
     return
